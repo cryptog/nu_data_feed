@@ -1,44 +1,11 @@
 {
     "custodians" : [
+        {
+            "address" : "YVVX129cTLtnHPZocfJ6EUz9gqNGwE5tZT",
+            "amount" : 5000000.0
+        }
     ],
     "parkrates" : [
-        {
-            "unit" : "B",
-            "rates" : [
-                {
-                    "blocks" : 2048,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 4096,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 8192,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 16384,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 32768,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 65536,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 131072,
-                    "rate" : 0.0
-                },
-                {
-                    "blocks" : 262144,
-                    "rate" : 0.0
-                }
-            ]
-        },
         {
             "unit" : "Y",
             "rates" : [
@@ -88,6 +55,43 @@
         {
             "unit" : "X",
             "rates" : [
+            ]
+        },
+        {
+            "unit" : "B",
+            "rates" : [
+                {
+                    "blocks" : 2048,
+                    "rate" : 0.00066195
+                },
+                {
+                    "blocks" : 4096,
+                    "rate" : 0.0013239
+                },
+                {
+                    "blocks" : 8192,
+                    "rate" : 0.00264781
+                },
+                {
+                    "blocks" : 16384,
+                    "rate" : 0.00529561
+                },
+                {
+                    "blocks" : 32768,
+                    "rate" : 0.01059122
+                },
+                {
+                    "blocks" : 65536,
+                    "rate" : 0.02118245
+                },
+                {
+                    "blocks" : 131072,
+                    "rate" : 0.0423649
+                },
+                {
+                    "blocks" : 262144,
+                    "rate" : 0.08472979
+                }
             ]
         }
     ],
